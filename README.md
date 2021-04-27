@@ -5,5 +5,5 @@ Projeto em [Unity](https://unity.com/) no qual você é uma nave espacial que te
 
 # Como jogar
 Todas as setas do teclado movimentam a nave, para os lados, para frente, para trás e para cima.
-Para destruir seus inimigos você deve utilizar a tecla __F__!
 
+Para destruir seus inimigos você deve utilizar a tecla __F__!
